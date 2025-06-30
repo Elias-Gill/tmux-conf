@@ -1,1 +1,5 @@
-plugins/
+/plugins/*
+
+# No ignorar la carpeta /tpm
+!/plugins/tpm/
+!/plugins/tpm/**/*
